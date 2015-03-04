@@ -1,0 +1,20 @@
+Package: prismUtils
+Version: 0.1-1
+Date: 2014-08-26
+Title: PRISM Weather Utilities
+Authors@R: c(person("Kendon", "Bell", role = c("aut", "cre"),
+    email = "kmb56@berkeley.edu"))
+Author: Kendon Bell
+Maintainer: Kendon Bell <kmb56@berkeley.edu>
+Depends:
+    R (>= 3.0.0),
+    rgdal,
+    sp,
+    data.table,
+    Bellmisc
+Description: A collection of utilities for downloading and manipulating
+    weather data files from the PRISM Climate Group at Oregon State University.
+License: GPL (>= 2)
+URL: http://www.r-project.org, https://github.com/kendonB/prismUtilityFiles,
+    http://www.prism.oregonstate.edu/
+BugReports: https://github.com/kendonB/prismUtilityFiles/issues

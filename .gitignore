@@ -1,0 +1,7 @@
+PRISM_*
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Rproj
+*.Rhistory
+*.Rbuildignore
